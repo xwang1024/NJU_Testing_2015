@@ -12,8 +12,8 @@
 
 * Fault：静态代码中存在的缺陷
 * Error：由于故障造成的软件错误的中间状态
-* Failure：和预期输出不同的异常行为  
-
+* Failure：和预期输出不同的异常行为
+<br/>
 * Execution 执行：故障代码被执行到
 * Infection 感染：产生了错误的中间状态
 * Propagation 传播：错误的中间状态传播到系统之外被观察到
