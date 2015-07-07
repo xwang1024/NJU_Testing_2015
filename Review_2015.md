@@ -8,6 +8,16 @@
 <a name="basicConcepts"/>
 # 测试的基本概念 [TOP](#catalog)
 
+#### PIE模型
+
+* Fault：静态代码中存在的缺陷
+* Error：由于故障造成的软件错误的中间状态
+* Failure：和预期输出不同的异常行为  
+
+* Execution 执行：故障代码被执行到
+* Infection 感染：产生了错误的中间状态
+* Propagation 传播：错误的中间状态传播到系统之外被观察到
+
 #### 测试活动 [Return](#basicConcepts)
 1. 测试需求：以软件需求为原型进行转变
 2. 测试设计：测试环境、输入、预期输出
@@ -43,6 +53,8 @@
 * 软件质量保障：SQA建立一套有计划、有系统的方法，来向管理层保证拟定出的标准、步骤、实践和方法能够正确地被所有项目所采用
 * 验证Verification：某样东西是否符合已经定义好的标准
 * 确认Validation：软件在最终运行环境上是否达到预期的目标
+
+#### 图覆盖 [Return](#basicConcepts)
 
 
 <a name="basicTech"/>
