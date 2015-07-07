@@ -1,9 +1,9 @@
 <a name="catalog"/>
 # 目录
 1. [测试的基本概念](#basicConcepts)
-1. 测试的基本技术
-1. 专项测试策略的基本原理
-1. 自动化测试工具
+1. [测试的基本技术](#basicConcepts)
+1. [专项测试策略的基本原理](#strategy)
+1. [自动化测试工具](#autoTesting)
 
 <a name="basicConcepts"/>
 # 测试的基本概念 [TOP](#catalog)
@@ -26,6 +26,8 @@
 ## 开发方测试、用户测试、第三方测试 [Return](#basicTech)
 
 
+<a name="strategy"/>
 # 专项测试策略的基本原理 [TOP](#catalog)
 
+<a name="autoTesting"/>
 # 自动化测试工具 [TOP](#catalog)
